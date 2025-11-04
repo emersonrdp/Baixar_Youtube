@@ -162,8 +162,8 @@ cython_debug/
 #.idea/
 
 #Projeto
-.venv\
-.venv\*
+.venve
+.venve\*
 dist
 build
 pasta_audio
